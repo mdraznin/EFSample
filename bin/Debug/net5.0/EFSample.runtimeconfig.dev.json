@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mdraz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mdraz\\.nuget\\packages"
+    ]
+  }
+}
