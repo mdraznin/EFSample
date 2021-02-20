@@ -15618,6 +15618,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "EFSample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Home\\Index.cshtml",
+      "TargetPath": "EFSample\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "EFSample\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\_ViewStart.cshtml",
+      "TargetPath": "EFSample\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Projects\\EFSample\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15630,6 +15650,21 @@
     {
       "FilePath": "d:\\Projects\\EFSample\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\_ViewImports.cshtml",
+      "TargetPath": "EFSample\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "EFSample\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "EFSample\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
