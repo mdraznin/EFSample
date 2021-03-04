@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Projects\\EFSample\\EFSample.csproj",
+  "FilePath": "d:\\Projects\\EFSample\\EFSample\\EFSample.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,38 +15603,38 @@
   "RootNamespace": "EFSample",
   "Documents": [
     {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\Projects\\EFSample\\EFSample\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Projects\\EFSample\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

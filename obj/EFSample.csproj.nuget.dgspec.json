@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\EFSample\\EFSample.csproj": {}
+    "D:\\Projects\\EFSample\\EFSample\\EFSample.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\EFSample\\EFSample.csproj": {
+    "D:\\Projects\\EFSample\\EFSample\\EFSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\EFSample\\EFSample.csproj",
+        "projectUniqueName": "D:\\Projects\\EFSample\\EFSample\\EFSample.csproj",
         "projectName": "EFSample",
-        "projectPath": "D:\\Projects\\EFSample\\EFSample.csproj",
+        "projectPath": "D:\\Projects\\EFSample\\EFSample\\EFSample.csproj",
         "packagesPath": "C:\\Users\\mdraz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\EFSample\\obj\\",
+        "outputPath": "D:\\Projects\\EFSample\\EFSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdraz\\AppData\\Roaming\\NuGet\\NuGet.Config",

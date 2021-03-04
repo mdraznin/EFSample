@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlybUbbLptZbuUCIlmHf+wra1lDNie5W1FnqYjZ/W1kICRFxAjUmjcBkgbt5vvnjlRxN3mkWmw9pxzd2b+Qr7A==",
+  "dgSpecHash": "GQ6kbLIE+8cEiWnDVodgCtwFjyQkA2qRfQj3VGn/tJuhkE0EL8EqiaUPm9ESKIBM6ccsA5tpFYY2xAxMhWU4XQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\EFSample\\EFSample.csproj",
+  "projectFilePath": "D:\\Projects\\EFSample\\EFSample\\EFSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdraz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mdraz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
