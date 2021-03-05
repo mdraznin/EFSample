@@ -440,7 +440,4 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-<<<<<<< HEAD
 obj/Debug/net5.0/*.cache
-=======
->>>>>>> 54b50bba24dfa66e80ba61c7ff04424383d8d30f
