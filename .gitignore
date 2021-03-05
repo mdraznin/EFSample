@@ -440,5 +440,4 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-obj/Debug/net5.0/EFSample.assets.cache
-obj/Debug/net5.0/EFSample.csprojAssemblyReference.cache
+obj/Debug/net5.0/*.cache
